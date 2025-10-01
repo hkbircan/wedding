@@ -1,9 +1,4 @@
 {
-	"couple": { "tr": "Sandra & Murat", "en": "Sandra & Murat", "de": "Sandra & Murat" },
-	"galleryTitle": {
-		"tr": "Sandra & Murat'in Düğününden Kareler",
-		"en": "Scenes from Sandra & Murat's Wedding",
-		"de": "Szenen von Sandra & Murats Hochzeit"
-	},
-	"updatedAt": "2025-10-01T00:00:00.000Z"
+	"brideName": "Gülsen",
+	"groomName": "Kubilay"
 }
