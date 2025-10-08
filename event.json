@@ -1,4 +1,5 @@
 {
-	"brideName": "Sandra",
-	"groomName": "Murat"
+  "brideName": "Sandra",
+  "groomName": "Murat",
+  "webhookUrl": "https://camping-slide-buck-ment.trycloudflare.com/webhook/upload-image"
 }
