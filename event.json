@@ -1,5 +1,5 @@
 {
   "brideName": "Sandra",
   "groomName": "Murat",
-  "webhookUrl": "https://orange-suggestion-changes-tom.trycloudflare.com"
+  "webhookUrl": "https://orange-suggestion-changes-tom.trycloudflare.com/webhook/upload-image"
 }
